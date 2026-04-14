@@ -1,0 +1,9 @@
+id=nebula_g85_override
+name=NEBULA: G85 OVERRIDE
+version=v1.0-ULTRA
+versionCode=300426
+author=Johnjk-mk
+description=Next-Gen AI Performance Engine for Samsung A05.
+axeronPlugin=13000
+webui=true
+webui_page=index.html
